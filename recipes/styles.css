@@ -14,11 +14,11 @@ body {
     padding: 1rem;
 }
 
-ul {
+ul, ol {
     border: 1px solid black;
 }
 
 iframe {
+    height: 100%;
     width: 90%;
-    height: 100vh;
 }
