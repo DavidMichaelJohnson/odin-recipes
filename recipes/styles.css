@@ -1,4 +1,10 @@
+.title {
+    background-color: rgb(46, 206, 46);
+    margin: 1rem;
+    padding: auto;
+    text-align: center;
+}
+
 .pic {
-    width: 75%;
-    margin: 0 auto;
+    max-width: 100%;
 }
