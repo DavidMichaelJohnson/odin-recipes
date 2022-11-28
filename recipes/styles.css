@@ -8,3 +8,17 @@
 .pic {
     max-width: 100%;
 }
+
+body {
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+ul {
+    border: 1px solid black;
+}
+
+iframe {
+    width: 90%;
+    height: 100vh;
+}
