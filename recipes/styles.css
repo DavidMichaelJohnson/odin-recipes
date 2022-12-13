@@ -16,6 +16,7 @@ body {
 
 ul, ol {
     border: 1px solid black;
+    width:fit-content;
 }
 
 .container {
@@ -35,3 +36,7 @@ ul, ol {
     width: 100%;
     height: 100%;
   }
+
+   .flex-container {
+    display: block;
+   }
